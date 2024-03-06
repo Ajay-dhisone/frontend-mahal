@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/frontend-mahal/static/css/main.b9a32c33.css",
+    "main.js": "/frontend-mahal/static/js/main.b4495de8.js",
+    "static/js/453.331c070c.chunk.js": "/frontend-mahal/static/js/453.331c070c.chunk.js",
+    "static/media/3.webp": "/frontend-mahal/static/media/3.33e2646b5946ff8913a7.webp",
+    "static/media/2.webp": "/frontend-mahal/static/media/2.4896676113e6b77ce6a5.webp",
+    "static/media/4.webp": "/frontend-mahal/static/media/4.144860d6f60d4ff49ece.webp",
+    "static/media/6.webp": "/frontend-mahal/static/media/6.997bddfb651ab2cc2be2.webp",
+    "static/media/5.webp": "/frontend-mahal/static/media/5.2b9c594272f7af455707.webp",
+    "static/media/12.webp": "/frontend-mahal/static/media/12.e101360404cbacde3045.webp",
+    "static/media/13.webp": "/frontend-mahal/static/media/13.974a23a6898720df93dc.webp",
+    "static/media/1.webp": "/frontend-mahal/static/media/1.7c70a15a093f326ea16d.webp",
+    "static/media/8.webp": "/frontend-mahal/static/media/8.74f410a1356d9e76dd46.webp",
+    "static/media/14.webp": "/frontend-mahal/static/media/14.ce518f9fe81c35b9dd79.webp",
+    "static/media/7.webp": "/frontend-mahal/static/media/7.3397471957890c1ca4d7.webp",
+    "static/media/10.webp": "/frontend-mahal/static/media/10.e81815a8983aaa644f4e.webp",
+    "static/media/9.webp": "/frontend-mahal/static/media/9.04f660f5071fef224089.webp",
+    "static/media/11.webp": "/frontend-mahal/static/media/11.685f9dfa28e349913cd1.webp",
+    "index.html": "/frontend-mahal/index.html",
+    "main.b9a32c33.css.map": "/frontend-mahal/static/css/main.b9a32c33.css.map",
+    "main.b4495de8.js.map": "/frontend-mahal/static/js/main.b4495de8.js.map",
+    "453.331c070c.chunk.js.map": "/frontend-mahal/static/js/453.331c070c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9a32c33.css",
+    "static/js/main.b4495de8.js"
+  ]
+}
